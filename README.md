@@ -1,4 +1,4 @@
-### Hi there 👋
+![Metrics](https://metrics.lecoq.io/exiadbq?template=terminal&stars=1&languages=1&pagespeed=1&pagespeed.detailed=false&pagespeed.screenshot=false&stars.limit=4)
 
 <!--
 **exiadbq/exiadbq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
